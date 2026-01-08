@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Aliya
-  title: Aliya Developer Portal
-  description: It is a external dev portal.
+  name: Alien
+  title: Alien Developer Portal
+  description: It is a portal
   annotations:
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://joeyyubo.github.io/Aliya-dev-portal/
+    - url: https://joeyyubo.github.io/Alien-dev-portal/
       title: View Portal (GitHub Pages)
       icon: web
       type: website

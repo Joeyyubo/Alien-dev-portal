@@ -1,25 +1,25 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: kksvoil
-  title: kksvoil Developer Portal
-  description: fdsfsc
+  name: Aliya
+  title: Aliya Developer Portal
+  description: It is a external dev portal.
   annotations:
     backstage.io/techdocs-ref: dir:.
   links:
-    - url: https://Joeyyubo.github.io/88jvc84m/
+    - url: https://joeyyubo.github.io/Aliya-dev-portal/
       title: View Portal (GitHub Pages)
       icon: web
       type: website
-    - url: https://raw.githubusercontent.com/Joeyyubo/88jvc84m/main/index.html
+    - url: https://raw.githubusercontent.com/Joeyyubo/Alien-dev-portal/main/index.html
       title: View HTML (Raw)
       icon: code
       type: sourcecode
-    - url: https://github.com/Joeyyubo/88jvc84m/blob/main/index.html
+    - url: https://github.com/Joeyyubo/Alien-dev-portal/blob/main/index.html
       title: View Source (index.html)
       icon: code
       type: sourcecode
-    - url: https://github.com/Joeyyubo/88jvc84m
+    - url: https://github.com/Joeyyubo/Alien-dev-portal
       title: Repository
       icon: github
       type: sourcecode
@@ -27,4 +27,3 @@ spec:
   type: service
   lifecycle: production
   owner: user:default/guest
-
